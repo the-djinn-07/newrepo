@@ -1,5 +1,3 @@
 just adding something to check pull
 
-second line
-
-third line
+i am practicing this for programing
